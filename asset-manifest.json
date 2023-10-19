@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/single-page-website-using-react/static/css/main.460fc48e.css",
+    "main.js": "/single-page-website-using-react/static/js/main.ec4a0144.js",
+    "static/media/computer-1.jpg": "/single-page-website-using-react/static/media/computer-1.337853cce056868b7a6e.jpg",
+    "static/media/computer-2.jpg": "/single-page-website-using-react/static/media/computer-2.4d0b4fb6df971db8c010.jpg",
+    "static/media/apple.jpg": "/single-page-website-using-react/static/media/apple.f780b3125fb3cec68dea.jpg",
+    "static/media/laptop.jpg": "/single-page-website-using-react/static/media/laptop.0409e0f9394ee025247c.jpg",
+    "static/media/new-years-day-g150a564a1_1920.jpg": "/single-page-website-using-react/static/media/new-years-day-g150a564a1_1920.a7bdfbb07f0d42554599.jpg",
+    "index.html": "/single-page-website-using-react/index.html",
+    "main.460fc48e.css.map": "/single-page-website-using-react/static/css/main.460fc48e.css.map",
+    "main.ec4a0144.js.map": "/single-page-website-using-react/static/js/main.ec4a0144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.460fc48e.css",
+    "static/js/main.ec4a0144.js"
+  ]
+}
