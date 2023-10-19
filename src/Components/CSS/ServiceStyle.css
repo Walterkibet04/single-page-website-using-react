@@ -1,0 +1,45 @@
+.services{
+    width: 100%;
+    /* background-color: antiquewhite; */
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
+.card{
+    width: 25%;
+    text-align: center;
+    box-shadow: 0px 0px 3px rgba(0, 128, 128, 0.486);
+    padding: 1em;
+}
+.serviceImg{
+    width: 80%;
+}
+@media screen and (max-width: 990px) {
+    .services{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .card{
+        width: 45%;
+        text-align: center;
+        margin-right: 1em;
+        margin-bottom: 2em;
+    }
+}
+
+@media screen and (max-width: 568px){
+    .services{
+        flex-direction: column;
+        margin-bottom: 3em;
+    }
+    .card{
+        width: 90%;
+    }
+    .card p{
+        font-size: 14px;
+    }
+}

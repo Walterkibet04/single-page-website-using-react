@@ -1,0 +1,30 @@
+footer{
+    bottom: 0;
+    background-color: rgb(29, 27, 27);
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 60px;
+}
+.line{
+    width: 30%;
+}
+hr{
+    margin-bottom: .5em;
+}
+.icon{
+    margin-right: 1em;
+}
+.copyright p{
+    text-align: center;
+    color: #fff;
+}
+@media screen and (max-width:1024px){
+    .line{
+        width: 40%;
+    }
+}
+@media screen and (max-width:854px){
+    .line{
+        width: 25%;
+    }
+}

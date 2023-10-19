@@ -1,0 +1,21 @@
+.contact{
+    max-width: 990px;
+    margin: 3em auto;
+}
+input{
+    width: 100%;
+    padding: .7em;
+    margin-bottom: 1em;
+    border: .1em solid teal;
+    outline: none;
+    font-size: 1.1rem;
+}
+label{
+    font-size: 1.1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .contact{
+        width: 70%;
+    }
+}
